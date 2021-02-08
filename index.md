@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Selamat datang di website untuk belajar data sekunder
 
 You can use the [editor on GitHub](https://github.com/datagood-id/SEM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
